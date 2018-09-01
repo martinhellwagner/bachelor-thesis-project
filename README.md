@@ -6,4 +6,4 @@ In times of decreasing quantities of music sales, touring is becoming a more imp
 
 ## How to get stared
 
-Set up a local server (for example using [MAMP](https://www.mamp.info) or [Laravel Valet](https://github.com/laravel/valet)) and open the `index.php` file to get started.
+Set up a local server (using for example [MAMP](https://www.mamp.info) or [Laravel Valet](https://github.com/laravel/valet)) and open the `index.php` file to get started.
